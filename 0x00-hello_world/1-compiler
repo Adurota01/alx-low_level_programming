@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc -C $CFILE
-[D[A[C[C[C[C[C[c[C[C[C[C[C[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+gcc -c $CFILE
+
