@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE -o cisfun[C[C[D[D[
+gcc $CFILE -o cisfun
