@@ -1,8 +1,9 @@
 #include "lists.h"
 /**
- * print_list - prints all the element os a list_t list.
- * @h: singly linled list.[D[D[D[D[D[D[D[k[C[C[C[C[C[C[C[C
-*/
+ * print_list - prints all the elements of a list_t list.
+ * @h: singly linked list.
+ * Return: number of elements in the list.
+ */
 
 size_t print_list(const list_t *h)
 {
@@ -19,4 +20,4 @@ size_t print_list(const list_t *h)
 		nelem++;
 	}
 	return (nelem);
-}[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[D */[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
+}
